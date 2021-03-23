@@ -1,11 +1,11 @@
 {
-  "name": {your app name},
+  "name":"react" ,
   "version": "1.0.0",
   "description": "",
-  "main": {your main fail},
+  "main": "form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "start": node {your main file},
+    "start": node form.js,
     "build": "echo \"Build successful\""
   },
   "keywords": [],
