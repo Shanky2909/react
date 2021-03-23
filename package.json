@@ -5,7 +5,7 @@
   "main": "form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\"",
-    "start": node form.js,
+    "start": "node form.js",
     "build": "echo \"Build successful\""
   },
   "keywords": [],
