@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "city": "Delhi",
+    "lat": "28.6600",
+    "lng": "77.2300",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Delhi",
+    "capital": "admin",
+    "population": "29617000",
+
+    "store_name": "Reliance SMART",
+    "store_latitude": "28.6887",
+    "store_longitude": "77.1331",
+    "population_proper": "16753235"
+  },
+  {
+    "id": 2,
+    "city": "Mumbai",
+    "lat": "18.9667",
+    "lng": "72.8333",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Maharashtra",
+    "capital": "admin",
+    "population": "23355000",
+
+    "store_name": "Crowford Market",
+    "store_latitude": "18.9483",
+    "store_longitude": "72.8259",
+    "population_proper": "12478447"
+  },
+  {
+    "id": 3,
+    "city": "Kolkata",
+    "lat": "22.5411",
+    "lng": "88.3378",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "West Bengal",
+    "capital": "admin",
+    "population": "17560000",
+
+    "store_name": "Asian Grocery Shop",
+    "store_latitude": "22.4887",
+    "store_longitude": "88.3187",
+    "population_proper": "4496694"
+  },
+  {
+    "id": 4,
+    "city": "Bangalore",
+    "lat": "12.9699",
+    "lng": "77.5980",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Karnataka",
+    "capital": "admin",
+    "population": "13707000",
+
+    "store_name": "Lalbagh Grocery Shop",
+    "store_latitude": "12.9484",
+    "store_longitude": "77.5862",
+    "population_proper": "8443675"
+  },
+  {
+    "id": 5,
+    "city": "Chennai",
+    "lat": "13.0825",
+    "lng": "80.2750",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Tamil Nadu",
+    "capital": "admin",
+    "population": "11324000",
+
+    "store_name": "Reliance Supermarket",
+    "store_latitude": "13.1240",
+    "store_longitude": "80.2054",
+    "population_proper": "6727000"
+  },
+  {
+    "id": 6,
+    "city": "Hyderabad",
+    "lat": "17.3667",
+    "lng": "78.4667",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Telangana",
+    "capital": "admin",
+    "population": "9746000",
+
+    "store_name": "Western Palaza Supermarket",
+    "store_latitude": "17.4088",
+    "store_longitude": "78.3896",
+    "population_proper": "6993262"
+  },
+  {
+    "id": 7,
+    "city": "Pune",
+    "lat": "18.5196",
+    "lng": "73.8553",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Maharashtra",
+    "capital": "",
+    "population": "7764000",
+
+    "store_name": "Seasons Mall",
+    "store_latitude": "18.5198",
+    "store_longitude": "73.9312",
+    "population_proper": "3124458"
+  },
+  {
+    "id": 8,
+    "city": "New Delhi",
+    "lat": "28.7000",
+    "lng": "77.2000",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Delhi",
+    "capital": "primary",
+    "population": "142004",
+
+    "store_name": "Reliance SMART",
+    "store_latitude": "28.6887",
+    "store_longitude": "77.1331",
+    "population_proper": "142004"
+  },
+  {
+    "id": 9,
+    "city": "Port Blair",
+    "lat": "11.6667",
+    "lng": "92.7500",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Andaman and Nicobar Islands",
+    "capital": "admin",
+    "population": "127562",
+
+    "store_name": "Freggie Mart",
+    "store_latitude": "11.6696",
+    "store_longitude": "92.7312",
+    "population_proper": "112050"
+  },
+  {
+    "id": 10,
+    "city": "Gangtok",
+    "lat": "27.3300",
+    "lng": "88.6200",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Sikkim",
+    "capital": "admin",
+    "population": "100286",
+
+    "store_name": "Gangtok Bazar",
+    "store_latitude": "27.3389",
+    "store_longitude": "88.6064",
+    "population_proper": "100286"
+  },
+  {
+    "id": 11,
+    "city": "Panaji",
+    "lat": "15.4800",
+    "lng": "73.8300",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Goa",
+    "capital": "admin",
+    "population": "40017",
+
+    "store_name": "Magsons Supercenter",
+    "store_latitude": "15.4864",
+    "store_longitude": "73.8179",
+    "population_proper": "40017"
+  },
+  {
+    "id": 12,
+    "city": "Daman",
+    "lat": "20.4170",
+    "lng": "72.8500",
+    "country": "India",
+    "iso2": "IN",
+    "admin_name": "Gujarat",
+    "capital": "admin",
+    "population": "39737",
+
+    "store_name": "Tibhuvan Store",
+    "store_latitude": "20.4176",
+    "store_longitude": "72.8364",
+    "population_proper": "39737"
+  }
+]
