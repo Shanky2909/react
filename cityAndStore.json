@@ -1,5 +1,4 @@
-{
-  "cities": [
+ [
     {
       "id": 1,
       "city": "Delhi",
@@ -193,4 +192,4 @@
       "population_proper": "39737"
     }
   ]
-}
+
